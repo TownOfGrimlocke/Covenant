@@ -55,7 +55,7 @@ Keep in mind, if you walk into a roleplay, people are not expected to pause or s
 #### 2.1 GENERAL RULES
 
 1.  All staff decisions are final. If you feel a decision is wrong, you are welcome to open a support ticket and have an appeal made. All decisions are in effect until an answer is given to the appeal. We follow the Three (3) strike rule. If the matter or situation has been dealt with prior, it will not be revisited after the Third (3rd) time.
-2.  Vulgarity: We're not uber strict on this, but we do ask that you do not use strong vulgar words (i.e., slut, cunt, etc.), racial slurs, etc. You can use certain words like A\*\* or F\*\*k for emotionally charged scenes but ask that it's not repetitive. Sometimes certain things slip out, but please monitor yourself. You can easily emote */me shouted F\*\*K three times after stubbing my little toe on the coffee table.*
+2.  Vulgarity: We're not uber strict on this, but we do ask that you do not use strong vulgar words (i.e., slut, cunt, etc.), racial slurs, etc. You can use certain words like A** or F**k for emotionally charged scenes but ask that it's not repetitive. Sometimes certain things slip out, but please monitor yourself. You can easily emote */me shouted F**K three times after stubbing my little toe on the coffee table.*
 3.  No bullying.
 4.  No racism.
 5.  For the sake of sanity, please, avoid discussing heated real-life topics such as: religion, politics, covid, etc. These things may come up in roleplay and it's fine, just make sure you're able to dissociate your real feelings to prevent it from becoming something a member of management would need to step in on.
