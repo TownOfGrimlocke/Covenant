@@ -782,7 +782,7 @@ without fear of exposure.
 
 ## Plot Changes
 
-1)  House Swapping
+-  House Swapping
 
     -  Switching out one building for another -- The Owner
         Jenniferlimana will need to approve the building. It must fit
