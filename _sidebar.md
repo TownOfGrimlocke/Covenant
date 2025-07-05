@@ -1,1 +1,1 @@
-- [2025 Covenant](Covenant)
+- [2025 Covenant](README)
