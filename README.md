@@ -817,13 +817,13 @@ without fear of exposure.
 ## Holidays
 
 -  If the region can support it, we will at times allow you to go
-        over your prim limits but unless this is stated publicly - you
-        must remain within your prim limits.
+    over your prim limits but unless this is stated publicly - you
+    must remain within your prim limits.
         
 -  Sounds from these decorations must remain on your parcel. If you
-        are on a parcel that is not privacy parceled and the sounds are
-        loud enough to disturb others, you may be asked to remove the
-        item.
+    are on a parcel that is not privacy parceled and the sounds are
+    loud enough to disturb others, you may be asked to remove the
+    item.
 
 -  Unless you have prior permission, no landscaping/decorations are to
     be off of your parcel or in front of your fence/yard
@@ -836,21 +836,21 @@ without fear of exposure.
 -  Residence
 
    - The renter will be required to pay a min of 2 weeks on their
-            rental or have 4 weeks' time remaining on their rental in
-            order to clear a pre-decorated location. This is due to the
-            work of replacing the times if you chose to no longer rent
-            that location.
+      rental or have 4 weeks' time remaining on their rental in
+      order to clear a pre-decorated location. This is due to the
+      work of replacing the times if you chose to no longer rent
+      that location.
 
  - Business
 
    -  You are renting the business from decoration/furniture to
-           the building. This will not be replaced but you are welcome
-            to add your own personal touches. 
+       the building. This will not be replaced but you are welcome
+       to add your own personal touches. 
 
    -  No strobe or flashing lights.
            
    -  No sound makers - unless the business is able to be
-                privacy parceled, the sounds will carry across the
+       privacy parceled, the sounds will carry across the
                 community.
 
 If Management has an idea or upgrade opportunity, the Renter
