@@ -851,7 +851,7 @@ without fear of exposure.
            
    -  No sound makers - unless the business is able to be
        privacy parceled, the sounds will carry across the
-                community.
+       community.
 
 If Management has an idea or upgrade opportunity, the Renter
             reserves the right to have the final say on changes (unless
@@ -872,7 +872,7 @@ The Renter is allowed to host events at their establishment
     -  Restricted to equestrian items and avatars only.
 
     -  You might live in the stall with your trusty stead, but you
-            wouldn't have the comforts of home.
+       wouldn't have the comforts of home.
 
 -  The area for the stables is parceled.
 
@@ -920,7 +920,7 @@ The following are our policies on discounts
 -  These discounts are limited to active role-players only.
 
 -  You must be active within the community a min of 3 days a week
-        or the discount is subject to removal.
+    or the discount is subject to removal.
 
 -  You are responsible for submitting a rental ticket and asking for
     these discounts as we are unable to monitor everyone and immediately
