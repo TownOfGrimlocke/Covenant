@@ -365,7 +365,7 @@ before ghost emoting and accept a denial with grace.)
     fill out here: <https://townofgrimlocke.com/dmv> The fee is \$15L
     for a generic plate & \$30L for custom plates, to be paid at the
     time of delivery. 
-    - We do accept valid licenses and registrations from other communiteis 
+    - We do accept valid licenses and registrations from other Communities 
     - You may use a fake ID / License but will face IC consequences if caught 
 
 -  Paying fines -- this is Role Play (RP) only. If you do not want to
@@ -987,7 +987,7 @@ right to report and ban/evict/handle issue ourselves.
 Grimlocke holds all intellectual rights for resources created for and
 used by the community. This applies but is not limited to:
 
-- Gaphics designed for all departments within the community of
+- Graphics designed for all departments within the community of
 Grimlocke
 
 - Artwork commissioned
