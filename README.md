@@ -156,7 +156,7 @@ just turn around and walk away.
 7.  No terrorist events (school shootings or school related violence
     with mass casualties, no mention of real-life terrorist groups or
     operations or roleplay around it, no bombing school or hospital
-    \[this includes the surface school office above Whalemart\], no
+    \[this includes the surface school office\], no
     replication real life terrorist events)
 
 8.  We do not allow covid or pandemic level roleplays. We may have the
@@ -486,7 +486,7 @@ All Bans are held a minimum of 30 days. After 30 days, you have the
 right to appeal.
 
 You have the right to appeal a ban by contacting a Community Manager:
-Glitch Vidarr (fasniper), Gracie Mackenzie (GracelynnDavis), Tyler M
+Glitch Vidarr (fasniper), Gracie Moonchild (GracelynnDavis), Tyler M
 Davis (TylerMDavis), Viktoriya Hui-Lycheborne
 (ILIKEPIEPIEPIEPIEPIEPIEPIEPIEPI).
 
@@ -536,10 +536,6 @@ without fear of exposure.
         main cave entrance)
 
 -  **Raccoon Bay:**
-
-    -  The Ravens Knock - Occult Shop selling reagents and other
-        oddities. Humans see it as a curiosity shop, but Supernatural's
-        know it as a place to get whatever they need.
 
     -  The Holistic Witch - white witch shop and hang out location.
         Healing vibes and energy, safe area that's warded to prevent
