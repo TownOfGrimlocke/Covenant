@@ -290,6 +290,8 @@ The following rules apply to all fire roleplays
         -  Unless Prior approval given from fire chief of member of
         management.
 
+    - No fire is to be set at a higher difficulty than 6 without prior approval from management or the current fire chief.
+
 ## Clothing and Attachment 
 
 -  Chest (women) and pelvis must be covered at all times with bits and
