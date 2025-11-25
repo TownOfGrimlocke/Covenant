@@ -210,6 +210,11 @@ just turn around and walk away.
 
 20. No flying. Flying is strictly prohibited over the Town Of Grimlock, unless you have been given permission prior to a Roleplay, Event or you are a bird flyer. This also includes Aerial Aircraft.
 
+21. Use of characters belonging to copyrighted universes are **Strictly** prohibited in Grimlock This also applies to terminology from copyrighted universes.  
+ 
+
+
+
 ## Criminal Roleplay 
 
 You are required to leave a crime box detailing what would be
@@ -541,14 +546,6 @@ without fear of exposure.
 
 -  **Raccoon Bay:**
 
-    -  The Holistic Witch - white witch shop and hang out location.
-        Healing vibes and energy, safe area that's warded to prevent
-        humans from overhearing conversations inside.
-
-    -  Shifting Kelp Shoals - Mer grotto containing everything Mer
-        related from playground, homes, restaurant, shop, and meeting
-        areas.
-
     -  Healing Leaf Tea Shop & Apothecary - Upstairs, invite only, is a
         safe area for Supernatural's to have magic infused teas and
         natural remedies created for them.
@@ -828,6 +825,11 @@ without fear of exposure.
 -  Unless you have prior permission, no landscaping/decorations are to
     be off of your parcel or in front of your fence/yard
     (lights/vines/fence toppers are OK on the fence).
+
+-  All holiday decorations with the exception of yule / chirstmas / december  are to be removed within 3 days after the holiday has passed
+  
+    -  For December Holidays, they may remain up until January 5th. 
+
 
 ## Prefurnished Rentals
 
