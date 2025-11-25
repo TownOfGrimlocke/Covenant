@@ -210,7 +210,7 @@ just turn around and walk away.
 
 20. No flying. Flying is strictly prohibited over the Town Of Grimlock, unless you have been given permission prior to a Roleplay, Event or you are a bird flyer. This also includes Aerial Aircraft.
 
-21. Use of characters belonging to copyrighted universes are **Strictly** prohibited in Grimlock This also applies to terminology from copyrighted universes.  
+21. Use of characters belonging to copyrighted universes are **Strictly** prohibited in Grimlocke. This also applies to terminology from copyrighted universes.  
  
 
 
