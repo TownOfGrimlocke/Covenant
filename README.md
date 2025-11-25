@@ -208,7 +208,7 @@ just turn around and walk away.
 
 19. Your character will maintain their criminal record.
 
-20. No flying. Flying is strictly prohibited over the Town Of Grimlock, unless you have been given permission prior to a Roleplay, Event or you are a bird flyer. This also includes Aerial Aircraft.
+20. No flying. Flying is strictly prohibited over the Town Of Grimlocke, unless you have been given permission prior to a Roleplay, Event or you are a bird flyer. This also includes Aerial Aircraft.
 
 21. Use of characters belonging to copyrighted universes are **Strictly** prohibited in Grimlocke. This also applies to terminology from copyrighted universes.  
  
