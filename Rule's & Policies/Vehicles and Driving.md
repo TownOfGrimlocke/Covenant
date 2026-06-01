@@ -1,38 +1,20 @@
 ## Vehicles and Driving
 
--  If you drive, you are roleplaying, with minor exceptions. You break
-    the law; you serve your sentence. Failure to do so will result in
-    loss of your Role Play (RP) privilege and can result in a temp ban.
+* **Roleplay Requirement:** If you drive, you are actively roleplaying (with minor exceptions). Breaking traffic laws carries In-Character (IC) legal consequences. Failure to serve your sentence will result in the loss of your roleplay privileges and can lead to a temporary ban.
 
--  All vehicles left out for 24 hours will be returned. If a vehicle is
-    left for a specific roleplay, management needs to be notified to
-    avoid having it returned. Vehicles owned by a resident with an
-    existing mailbox will not be returned (This is subject to
-    management's discretion). In Character wise, the vehicle will be
-    ticketed and towed.
+* **Vehicle Return Policy (24-Hour Rule):** All vehicles left unattended for 24 hours will be returned to your inventory. 
+  * If a vehicle must be left out for a specific, ongoing roleplay scenario, you must notify management ahead of time.
+  * Vehicles owned by residents with an active mailbox are exempt from automatic returns, subject to management's discretion. In-character, these vehicles will be ticketed and towed.
 
--  No Vehicles over 50 prims (without approval).
+* **Prim Limits:** Vehicles must not exceed **50 prims** without explicit prior approval from management.
 
--  License Plates/Driver's Licenses/ID -- there are forms for you to
-    fill out here: <https://townofgrimlocke.com/dmv> The fee is \$15L
-    for a generic plate & \$30L for custom plates, to be paid at the
-    time of delivery. 
-    - We do accept valid licenses and registrations from other Communities 
-    - You may use a fake ID / License but will face IC consequences if caught 
+* **DMV Registration:** You can fill out forms for License Plates, Driver's Licenses, and IDs at the [Grimlocke DMV](https://townofgrimlocke.com/dmv). 
+  * **Fees:** $15L for a generic plate and $30L for custom plates, payable upon delivery.
+  * We accept valid licenses and registrations from external communities.
+  * You are permitted to use a fake ID or license, but you will face strict IC consequences if caught by law enforcement.
 
--  Paying fines -- this is Role Play (RP) only. If you do not want to
-    Role Play (RP) with the police/court in paying it, just do a simple
-    emote in the Role Play (RP) group that your fine has been paid
-    (mailed in, paid online, stopped by the village hall, etc.). Post it
-    in the discord server or send a copy of it to the Sheriff or Majors.
+* **Paying Fines:** Fine payments are strictly for roleplay purposes. If you prefer not to roleplay the entire court or police interaction, you may post a quick emote in the local RP group stating how it was handled (e.g., *mailed it in, paid online, dropped it off at village hall*). Please send a copy of this record or a Discord notification to the Sheriff or Mayors.
 
--  Vehicles approaching a road blocked due to a roleplay should DM
-    someone involved as a courtesy before going around it. This is to
-    prevent someone uninvolved with the roleplay from being stuck in
-    place. If it is a checkpoint or construction, you'll be moving soon
-    enough.
+* **Roadblocks & Checkpoints:** If you approach a road that is blocked due to an active roleplay scene, send a polite DM to one of the participants before attempting to drive around it. This prevents breaking their immersion. If the obstruction is a formal checkpoint or construction site, please wait patiently; it will clear shortly.
 
--  Vehicles are in character and are open to things like theft Role
-    Play (RP) if unlocked. This also applies to properties with the "RP
-    OK" sign. Check your vehicle settings and lock your vehicle if you
-    do not want it stolen.
+* **Vehicle Security & Theft:** Vehicles are considered in-character assets. If left unlocked, they are fully open to theft roleplay. This rule also applies to any properties displaying the **"RP OK"** sign. If you do not want your vehicle stolen, please check your script settings and ensure it is locked.
