@@ -1,0 +1,25 @@
+## Emergency Services Roleplay Policy
+
+We heavily discourage repeating the same roleplay on repeat (example
+back to back runaways) in close succession. We have a 2-week cooldown
+between heavy style roleplays that involve police or other emergency
+services to prevent burnout on our small departments.
+
+Before setting a fire or needing immediate emergency services, please
+verify in OOC group chat we have active duty available.
+
+Just because someone is online does not mean they are actively on duty.
+
+If you want to leave an offline 911 to point towards a crime scene
+marker - you can use the #ic-communications channel in our discord, tag
+as a 911 call. You can emote in the RP Chat that you've called 911,
+spoke to someone, and the relay will handle the rest (in that call,
+please provide all the information for the call, if you're doing it in
+Discord, please tag the Sheriff's).
+
+If you notice there is an active roleplay using utility resources (fire,
+sheriff, medical), message one of the resource role-player's before
+starting another roleplay.
+
+All emergency calls and roleplay chatter is in the roleplay group only.
+The OOC group is for out of character chatting or roleplay discussion.

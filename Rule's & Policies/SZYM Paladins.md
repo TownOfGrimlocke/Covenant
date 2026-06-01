@@ -1,0 +1,11 @@
+## Szym Paladins
+
+-  We are allowing Paladins to max out at 75 prims and the truck must
+    be optimized.
+
+-  No more than 1 Paladin per avatar. We will take into consideration
+    for service departments to allow an increase of prims and to allow
+    more than 1 rezzed, (i.e. to allow a personal and a work truck, on
+    an individual basis.) However, the only people in departments that
+    should be driving vehicles home are police and fire chiefs and
+    assistant chiefs, and the head of DoT.
