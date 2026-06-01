@@ -8,8 +8,8 @@
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#000000",
-    "light": "#555555",
+    "primary": "#42b893",
+    "light": "#ffffff",
     "dark": "#111111"
   },
   "navigation": {
@@ -97,5 +97,11 @@
         ]
       }
     ]
+  },
+  "icons": {
+    "library": "fontawesome"
+  },
+  "background": {
+    "decoration": "windows"
   }
 }
