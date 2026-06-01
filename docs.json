@@ -98,5 +98,17 @@
   },
   "metadata": {
     "timestamp": true
+  },
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Join Discord",
+      "href": "https://discord.com/invite/5CCUBQuaDx"
+    }
+  },
+  "footer": {
+    "socials": {
+      "discord": "https://discord.com/invite/5CCUBQuaDx"
+    }
   }
 }
