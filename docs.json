@@ -4,8 +4,8 @@
   "theme": "aspen",
   "colors": {
     "primary": "#3b99d9",
-    "light": "#FFFFFF",
-    "dark": "#000000"
+    "light": "#3b99d9",
+    "dark": "#3b99d9"
   },
   "navigation": {
     "groups": [
