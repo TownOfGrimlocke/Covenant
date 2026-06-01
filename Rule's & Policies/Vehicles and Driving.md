@@ -7,7 +7,7 @@
 * **Prim Limits:** Vehicles must not exceed **50 prims** without explicit prior approval from management.
 
 * **DMV Registration:** You can fill out forms for License Plates, Driver's Licenses, and IDs at the [Grimlocke DMV](https://townofgrimlocke.com/dmv). 
-  * **Fees:** $15L for a generic plate and $30L for custom plates, payable upon delivery.
+  * **Fees:** $15Linden for a generic plate and $30Linden for custom plates, payable upon delivery.
   * We accept valid licenses and registrations from external communities.
   * You are permitted to use a fake ID or license, but you will face strict IC consequences if caught by law enforcement.
 
