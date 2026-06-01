@@ -1,5 +1,3 @@
-## Scripted Items
-
 -  Furniture pertaining to The Sims' style huds (BeYou, Life, Life2,
     Xeolife, Mystory, etc.) is limited to 3 Hud specific furniture
     Items/appliances per rental. More will result in you being contacted

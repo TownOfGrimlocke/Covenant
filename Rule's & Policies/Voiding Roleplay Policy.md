@@ -1,5 +1,3 @@
-## Voiding Roleplay Policy
-
 This is generally disapproved of as it affects multiple people. If
 you've laid a scene and it's been investigated or if you've done a
 roleplay that involves more than just you you will need management

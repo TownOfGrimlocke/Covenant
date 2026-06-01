@@ -1,5 +1,3 @@
-# Rental Basics
-
 -  Rented homes are marked with mailboxes either near the front door or
     fence gates. These may not be mailboxes if the aesthetics may call
     for something else. It could be a bird feeder near the gate, a light

@@ -1,5 +1,3 @@
-## Ghost Emoting
-
 Ghost emoting (emoting you are somewhere that you are not physically at)
 is prohibited without permission from those it affects. (i.e., Jane is
 going to Whalemart. Billy is elsewhere on the grid or using the relay

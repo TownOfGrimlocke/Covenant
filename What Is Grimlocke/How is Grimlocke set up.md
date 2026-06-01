@@ -1,6 +1,3 @@
-
-## How is Grimlocke set up? 
-
 Each region is set up to be roughly 5-7 miles apart.
 
 Leaving Raccoon Bay and heading into Sunrise, that would easily be a

@@ -1,4 +1,3 @@
-## Discounts
 The following are our policies on discounts
 
 -  10% discount 2 weeks after roleplay business opening

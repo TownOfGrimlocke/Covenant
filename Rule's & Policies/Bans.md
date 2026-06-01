@@ -1,5 +1,3 @@
-## Bans
-
 All Bans are held a minimum of 30 days. After 30 days, you have the
 right to appeal.
 

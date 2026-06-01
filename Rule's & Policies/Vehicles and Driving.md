@@ -1,5 +1,3 @@
-## Vehicles and Driving
-
 * **Roleplay Requirement:** If you drive, you are actively roleplaying (with minor exceptions). Breaking traffic laws carries In-Character (IC) legal consequences. Failure to serve your sentence will result in the loss of your roleplay privileges and can lead to a temporary ban.
 
 * **Vehicle Return Policy (24-Hour Rule):** All vehicles left unattended for 24 hours will be returned to your inventory. 

@@ -1,5 +1,3 @@
-## 18+ Events 
-
 -  No minor (17 and below) aged avatars.
 
 -  You are not allowed to attend or "accidentally" stumble into an area

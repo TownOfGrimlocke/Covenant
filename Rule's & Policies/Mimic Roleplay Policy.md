@@ -1,6 +1,3 @@
-
-## Mimic Roleplay Policy
-
 Mimicking is the best form of flattery, but this is discouraged as this
 tends to burn out emergency services and others who are pulled into it.
 If group 1 has a kidnapping happen, group 2 should not be having a near

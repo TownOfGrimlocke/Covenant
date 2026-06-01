@@ -1,5 +1,3 @@
-## Szym Paladins
-
 -  We are allowing Paladins to max out at 75 prims and the truck must
     be optimized.
 

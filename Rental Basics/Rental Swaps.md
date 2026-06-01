@@ -1,4 +1,3 @@
-## Rental Swaps
 Rental Swaps will only occur on **ALL** of the following conditions: 
 
 - You must pay a minimum of 1 week on the new rental before the

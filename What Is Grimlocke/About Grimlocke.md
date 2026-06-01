@@ -1,5 +1,3 @@
-## About Grimlocke?
-
 Grimlocke was formerly known as a private town (no public access) called
 Town of Raccoon Bay. Grimlocke started as just a place for a group of
 close friends and our mall featuring our stores.

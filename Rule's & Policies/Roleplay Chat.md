@@ -1,5 +1,3 @@
-## Roleplay Chat
-
 - It is heavily encouraged to take your roleplay to local when
     everyone is within 19 meter distance from each other.
 

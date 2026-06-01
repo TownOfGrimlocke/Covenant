@@ -1,5 +1,3 @@
-## Supernatural Roleplaying
-
 We are a supernatural community. What does that mean? It means we are a
 modern community with supernatural secrets. The laws here are the same
 as elsewhere with strict rules on supernatural exposure laws. Humans

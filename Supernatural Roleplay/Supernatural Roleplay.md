@@ -1,4 +1,3 @@
-# Supernatural Roleplay 
 Your character must be balanced and not be overpowered to the point of
 making it unfair to those you are roleplaying with. We do have guides
 for every race to follow upon request but do not push this. This is

@@ -1,5 +1,3 @@
-## Eviction Information
-
 -  Management reserves the right to evict and reset the rental under
     the following conditions:
 

@@ -1,5 +1,3 @@
-# Privacy Expectation 
-
 Everyone has a right to privacy. This means camming is highly
 discouraged into rented homes. Don't want to see a photo or a BDSM
 cross? Don't look into the person's home. This is their personal space

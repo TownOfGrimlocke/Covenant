@@ -1,5 +1,3 @@
-## Fire Roleplay
-
 The following rules apply to all fire roleplays
 
 -  We only support HD fire

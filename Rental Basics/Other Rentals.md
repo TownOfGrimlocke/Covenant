@@ -1,5 +1,3 @@
-## Other Rentals
-
 -  Equestrian Rentals
 
     -  Stables are rented at 1.3L/Prim.

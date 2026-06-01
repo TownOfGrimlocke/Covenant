@@ -1,5 +1,3 @@
-# Amendments
-
 The community owner and management of Grimlocke reserve the right to
 change the bylaws of the community. Notice will be given of any
 amendments.

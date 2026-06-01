@@ -1,5 +1,3 @@
-## Holidays
-
 -  If the region can support it, we will at times allow you to go
     over your prim limits but unless this is stated publicly - you
     must remain within your prim limits.

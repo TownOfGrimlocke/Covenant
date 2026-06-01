@@ -1,6 +1,3 @@
-
-### General Rules
-
 1.  All staff decisions are final. If you feel a decision is wrong, you
     are welcome to open a support ticket and have an appeal made. All
     decisions are in effect until an answer is given to the appeal. We

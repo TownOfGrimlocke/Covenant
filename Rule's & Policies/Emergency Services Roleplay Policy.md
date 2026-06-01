@@ -1,4 +1,3 @@
-## Emergency Services Roleplay Policy
 
 We heavily discourage repeating the same roleplay on repeat (example
 back to back runaways) in close succession. We have a 2-week cooldown

@@ -1,8 +1,3 @@
-
-# Property of Grimlocke
-
-
-
 Grimlocke holds all intellectual rights for resources created for and
 used by the community. This applies but is not limited to:
 

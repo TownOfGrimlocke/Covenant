@@ -1,5 +1,3 @@
-## Plot Changes
-
 -  House Swapping
 
     -  Switching out one building for another -- The Owner

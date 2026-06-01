@@ -1,5 +1,3 @@
-## Businesses not related to roleplay.
-
 We have a mall in the sky that holds a collaboration of stores. This
 mall is off-limits to emergency service roleplay (i.e., fire, shootings,
 etc.). This is a bother to our visitors and customers. If you are

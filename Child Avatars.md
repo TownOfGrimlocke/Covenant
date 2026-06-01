@@ -1,6 +1,3 @@
-
-# Child Avatars
-
 ### Roleplay Decorum
 
 - Note your age. A toddler would not be stealing a car or living on

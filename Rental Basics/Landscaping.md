@@ -1,5 +1,3 @@
-## Landscaping
-
 -  You are welcome to decorate your yard as you please.
 
 -  We do reserve the right to ask you to remove things if they clash

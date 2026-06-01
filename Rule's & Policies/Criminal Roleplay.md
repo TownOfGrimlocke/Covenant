@@ -1,5 +1,3 @@
-## Criminal Roleplay 
-
 You are required to leave a crime box detailing what would be
 seen/found. You are welcome to set it up as a scavenger hunt and have it
 investigated. But a crime box must be left. You can get a crime marker

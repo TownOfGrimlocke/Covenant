@@ -1,5 +1,3 @@
-## Clothing and Attachment 
-
 -  Chest (women) and pelvis must be covered at all times with bits and
     bobs removed when possible.
 

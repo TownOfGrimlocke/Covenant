@@ -1,5 +1,3 @@
-## Dice Rolls
-
 Dice Rolls - We offer a dice Hud in the visitor welcome basket located
 in the welcome center. This is suggested to be used to gauge your
 attacks and their hits.

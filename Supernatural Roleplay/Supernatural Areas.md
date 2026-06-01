@@ -1,5 +1,3 @@
-## Supernatural Areas
-
 We have specific areas set up for supernatural\'s to let their fangs
 drop, wings pop out, and claws to stretch - free to be themselves
 without fear of exposure.
