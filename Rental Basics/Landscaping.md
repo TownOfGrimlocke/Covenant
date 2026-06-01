@@ -1,0 +1,11 @@
+## Landscaping
+
+-  You are welcome to decorate your yard as you please.
+
+-  We do reserve the right to ask you to remove things if they clash
+    against the aesthetic of the area, you are in.
+
+    -  An example of this would be a prim tree that is full bright.
+        This would heavily clash against the rest of the landscaping. If
+        you love this particular tree, place it out of sight behind your
+        home.
