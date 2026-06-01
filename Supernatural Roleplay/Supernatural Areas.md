@@ -1,4 +1,4 @@
-We have specific areas set up for supernatural\'s to let their fangs
+We have specific areas set up for supernaturals to let their fangs
 drop, wings pop out, and claws to stretch - free to be themselves
 without fear of exposure.
 
@@ -35,7 +35,7 @@ without fear of exposure.
         collection of Supernatural related books from histories, family
         lineages, medical, ancient scrolls, spell casting - anything
         relating to a Supernatural that the Librarian has been able to
-        get her hand son.
+        get her hands on.
 
     -  Elvina Territory - pack grounds for the Elvina pack are located
         on this region. Offering pack protection in an all-inclusive

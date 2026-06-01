@@ -70,10 +70,10 @@
 
     -  We do not offer refunds.
 
-    -  The only exception to this rule would be.
+    -  The only exception to this rule would be:
 
         -  The event of a shut down.
 
         -  Loss of region you are renting on.
 
-        -  An error on our behalf
+        -  An error on our behalf.

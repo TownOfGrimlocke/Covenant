@@ -1,11 +1,11 @@
- Clearing Pre-Furnished Rentals
+## Clearing Pre-Furnished Rentals
 
 -  Residence
 
    - The renter will be required to pay a min of 2 weeks on their
       rental or have 4 weeks' time remaining on their rental in
       order to clear a pre-decorated location. This is due to the
-      work of replacing the times if you chose to no longer rent
+      work of replacing the items if you chose to no longer rent
       that location.
 
  - Business
@@ -20,7 +20,7 @@
        privacy parceled, the sounds will carry across the
        community.
 
-If Management has an idea or upgrade opportunity, the Renterreserves the right to have the final say on changes (unless it's an emergency situation or something breaks) until the end of their tenancy. 
+If Management has an idea or upgrade opportunity, the Renter reserves the right to have the final say on changes (unless it's an emergency situation or something breaks) until the end of their tenancy. 
 
 The Renter is allowed to host events at their establishment but are responsible for their own posters. Management can
 post the event times/posters in the Discord and on our event calendar.

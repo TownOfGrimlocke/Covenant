@@ -4,7 +4,7 @@
 
     -  Restricted to equestrian items and avatars only.
 
-    -  You might live in the stall with your trusty stead, but you
+    -  You might live in the stall with your trusty steed, but you
        wouldn't have the comforts of home.
 
 -  The area for the stables is parceled.

@@ -7,7 +7,7 @@
     -  The Renter will be required to pay a min of 3 weeks on their
         rental or have 5 + weeks' time remaining on the rental.
 
-    -  Usage of your own provide house must be approved by management.
+    -  Usage of your own provided house must be approved by management.
 
         -  Do not rent with the intent of using your own house.
 

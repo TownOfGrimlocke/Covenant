@@ -9,4 +9,4 @@ concerns. Fair warning, if we are unable to see what the issue is from
 the sidewalks/is not visible from outside the home -- there is nothing
 we can do unless it breaks LL ToS. If it breaks LL ToS, then it will be
 reported to LL, and they will make a decision on it. We reserve the
-right to report and ban/evict/handle issue ourselves.
+right to report and ban/evict/handle the issue ourselves.

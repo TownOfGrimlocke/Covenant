@@ -11,7 +11,7 @@ The following rules apply to all fire roleplays
     happen after the first roleplay is activated will be voided
     immediately.
 
-        - Unless Prior approval given from fire chief of member of
+        - Unless prior approval is given from the fire chief or a member of
         management.
 
     - No fire is to be set at a higher difficulty than 6 without prior approval from management or the current fire chief.
