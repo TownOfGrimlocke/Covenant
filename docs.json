@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Grimlocke Documentation",
+  "name": "Grimlocke Covenant",
   "theme": "linden",
   "logo": {
     "light": "/logo/light.svg",
@@ -9,8 +9,8 @@
   "favicon": "/favicon.png",
   "colors": {
     "primary": "#42b893",
-    "light": "#ffffff",
-    "dark": "#111111"
+    "light": "#FFFFFF",
+    "dark": "#000000"
   },
   "navigation": {
     "groups": [
@@ -100,8 +100,5 @@
   },
   "icons": {
     "library": "fontawesome"
-  },
-  "background": {
-    "decoration": "windows"
   }
 }
