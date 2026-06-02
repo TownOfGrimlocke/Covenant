@@ -59,7 +59,7 @@
     -  Single Family / Single Lot homes are parceled and allowed adult
         furniture.
 
-    -  The Apartments, Businesses and other unparcelled rentals are
+    -  The Apartments, Businesses and other unparceled rentals are
         **not** allowed Adult Furniture.
 
 -  Security Orbs are not allowed and will be returned. If you need to
