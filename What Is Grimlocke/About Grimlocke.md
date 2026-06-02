@@ -3,7 +3,7 @@ Town of Raccoon Bay. Grimlocke started as just a place for a group of
 close friends and our mall featuring our stores.
 
 Grimlocke is a family friendly community allowing both children and
-furries. Located in Oregon, U.S.A, Grimlocke neighbors the city of
+furries. Located in Oregon, U.S.A., Grimlocke neighbors the city of
 Astoria nestled along the bay and surrounded by a forest. We appear just
 like a regular modern family roleplay community; but under a masquerade
 lives supernatural and mythical beings of lore.
