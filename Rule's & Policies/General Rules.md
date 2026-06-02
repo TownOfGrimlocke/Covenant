@@ -10,7 +10,8 @@
     etc. You can use certain words like A\*\* or F\*\*k for emotionally
     charged scenes but ask that it's not repetitive. Sometimes certain
     things slip out, but please monitor yourself. You can easily emote
-    > */me shouted F\*\*K three times after stubbing my little toe on the coffee table.*
+    > */me shouted F\*\*K three times after stubbing my little toe on the
+    coffee table.*
 
 3.  No bullying
 
@@ -81,5 +82,5 @@
 
 20. No flying. Flying is strictly prohibited over the Town Of Grimlocke, unless you have been given permission prior to a Roleplay, Event or you are a bird flyer. This also includes Aerial Aircraft.
 
-21. Use of characters belonging to copyrighted universes are **Strictly** prohibited in Grimlocke. This also applies to terminology from copyrighted universes.  
+21. Use of characters belonging to copyrighted universes is **Strictly** prohibited in Grimlocke. This also applies to terminology from copyrighted universes.  
  
