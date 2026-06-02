@@ -29,7 +29,7 @@
     with mass casualties, no mention of real-life terrorist groups or
     operations or roleplay around it, no bombing school or hospital
     \[this includes the surface school office\], no
-    replication real life terrorist events)
+    replication of real life terrorist events)
 
 8.  We do not allow covid or pandemic level roleplays. We may have the
     normal flu and cold season, a supernatural ailment, or other

@@ -12,7 +12,7 @@ Outside of the center of town, most homes (as on Sunrise Heights and
 Juniper Woods) would be spaced apart and not easily seen into, some
 several miles apart. Check "RP OK" signs to see how far a house sits
 back from the road (i.e., 42 Juniper Circle Juniper Woods, aka White
-Valley Ranch, the house sits nearly a mile from the road)
+Valley Ranch, the house sits nearly a mile from the road).
 
 White Valley National Forest extends from and around Sunrise Heights
 past Juniper Woods. The town of Grimlocke is nestled between the
@@ -34,7 +34,7 @@ are when they are closed off to the public. The tunnels are by foot
 only. The use of cellular devices would not be possible. Short wave
 radios would work until the person went deeper into the mines.
 
-To reach the entrance of the canyon against Racoon Bay's border would be
+To reach the entrance of the canyon against Raccoon Bay's border would be
 about a 45-minute drive, and not easily seen from above. The canyon
 itself is too narrow for vehicles to enter and must be reached on foot,
 bicycle, horse, etc.

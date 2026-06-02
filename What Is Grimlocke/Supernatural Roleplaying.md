@@ -1,7 +1,7 @@
 We are a supernatural community. What does that mean? It means we are a
 modern community with supernatural secrets. The laws here are the same
 as elsewhere with strict rules on supernatural exposure laws. Humans
-must never find out that supernatural\'s exist or we could become
+must never find out that supernaturals exist or we could become
 subjects for scientists, gain the interest of various Government bodies,
 be used as pawns, etc.
 
@@ -13,7 +13,7 @@ open for all nature of roleplays that follow our covenant.
 Not a fan of magic and supernatural? No problem. You would just ignore
 anything that might seem out of place because the human mind is an
 amazing thing. Remember, you are never forced to do a roleplay that you
-did not agree to. Supernatural\'s will hide their true nature, and if
+did not agree to. Supernaturals will hide their true nature, and if
 you do come across something out of place, you, as a human, can just
 pretend there is a reasonable explanation for it and carry on. See
 someone with wings, horns, or ashen skin - You may see them as normal

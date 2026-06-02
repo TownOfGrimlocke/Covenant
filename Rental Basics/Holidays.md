@@ -11,6 +11,6 @@
     be off of your parcel or in front of your fence/yard
     (lights/vines/fence toppers are OK on the fence).
 
--  All holiday decorations with the exception of yule / chirstmas / december  are to be removed within 3 days after the holiday has passed
+-  All holiday decorations with the exception of yule / Christmas / December are to be removed within 3 days after the holiday has passed.
   
     -  For December Holidays, they may remain up until January 5th. 

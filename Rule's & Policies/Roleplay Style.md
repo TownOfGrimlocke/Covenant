@@ -1,4 +1,4 @@
-Grimlocke dose not support the usage of roleplaying with health meters.
+Grimlocke does not support the usage of roleplaying with health meters.
 Any roleplay involving them will be voided, and any issues raised from
 them will be closed without investigation and all parties involved will
 be warned.
