@@ -22,7 +22,7 @@
         -  If you state you have cameras, there needs to be at least 1
             camera visible.
 
-        - You do not need to have physical NPC, but you do need to
+        - You do not need to have physical NPCs, but you do need to
             write where they would be at and if they'd be patrolling.
 
             -  This is also within reason:
