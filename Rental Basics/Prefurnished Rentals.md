@@ -5,7 +5,7 @@
    - The renter will be required to pay a min of 2 weeks on their
       rental or have 4 weeks' time remaining on their rental in
       order to clear a pre-decorated location. This is due to the
-      work of replacing the items if you chose to no longer rent
+      work of replacing the items if you choose to no longer rent
       that location.
 
  - Business

@@ -18,12 +18,12 @@
 4.  No racism.
 
 5.  For the sake of sanity, please, avoid discussing heated real-life
-    topics such as: religion, politics, covid, etc. These things may
+    topics such as: religion, politics, COVID, etc. These things may
     come up in roleplay and it's fine, just make sure you're able to
     dissociate your real feelings to prevent it from becoming something
     a member of management would need to step in on.
 
-6.  We do not allow covid or school violence roleplays.
+6.  We do not allow COVID or school violence roleplays.
 
 7.  No terrorist events (school shootings or school related violence
     with mass casualties, no mention of real-life terrorist groups or
@@ -31,12 +31,12 @@
     \[this includes the surface school office\], no
     replication of real life terrorist events)
 
-8.  We do not allow covid or pandemic level roleplays. We may have the
+8.  We do not allow COVID or pandemic level roleplays. We may have the
     normal flu and cold season, a supernatural ailment, or other
     community wide roleplays but this is done at the discretion of
     Grimlocke management and the Director of the Hospital.
 
-9.  No voice. You can use private calling, discord, or various other
+9.  No voice. You can use private calling, Discord, or various other
     methods to talk to someone if you need.
 
 10. Voice is turned off except on home parcels, fire department, and
@@ -82,5 +82,5 @@
 
 20. No flying. Flying is strictly prohibited over the Town Of Grimlocke, unless you have been given permission prior to a Roleplay, Event or you are a bird flyer. This also includes Aerial Aircraft.
 
-21. Use of characters belonging to copyrighted universes are **Strictly** prohibited in Grimlocke. This also applies to terminology from copyrighted universes.  
+21. Use of characters belonging to copyrighted universes is **Strictly** prohibited in Grimlocke. This also applies to terminology from copyrighted universes.  
  

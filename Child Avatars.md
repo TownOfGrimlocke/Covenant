@@ -105,6 +105,6 @@
     times. The Juveniles that elect to attend in person would be fitted
     with an ankle monitor that would track the location of the
     individual and would be escorted to their locker and/or classroom by
-    a staff member from the facility and, would be picked up at the end
+    a staff member from the facility and would be picked up at the end
     of the school day and returned to the youth facility to continue
     serving their sentence.
