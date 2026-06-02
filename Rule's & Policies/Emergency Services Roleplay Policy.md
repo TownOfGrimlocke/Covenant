@@ -17,7 +17,7 @@ please provide all the information for the call, if you're doing it in
 Discord, please tag the Sheriff's).
 
 If you notice there is an active roleplay using utility resources (fire,
-sheriff, medical), message one of the resource role-player's before
+sheriff, medical), message one of the resource role-players before
 starting another roleplay.
 
 All emergency calls and roleplay chatter is in the roleplay group only.

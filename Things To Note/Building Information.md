@@ -6,6 +6,6 @@ would have people around the clock there.
 
 ALL public buildings (restaurants, stores, etc.), during open hours
 (consider open hours as 8am-9pm, with the exception of Whalemart (24
-Hours), Drive-In (open until 2am) will have NPC people present when
+Hours) and Drive-In (open until 2am)), will have NPC people present when
 there are no physical players.
 
