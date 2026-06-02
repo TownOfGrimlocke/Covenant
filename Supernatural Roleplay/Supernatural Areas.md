@@ -4,7 +4,7 @@ without fear of exposure.
 
 -  **Sunrise Heights:**
 
-    -  Brentmont Mine - This is what supernatural's call the old
+    -  Brentmont Mine - This is what supernaturals call the old
         Dwarven Mine. ICly, it's closed to the public for safety reasons
         and boarded up. Humans may be on the "upper" area of the mining
         tunnels, but the "lower" tunnels would be hard for them to
