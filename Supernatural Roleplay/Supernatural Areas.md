@@ -24,11 +24,11 @@ without fear of exposure.
 -  **Raccoon Bay:**
 
     -  Healing Leaf Tea Shop & Apothecary - Upstairs, invite only, is a
-        safe area for Supernatural's to have magic infused teas and
+        safe area for Supernaturals to have magic infused teas and
         natural remedies created for them.
 
     -  Grimlocke Public Library - the unassuming library offers
-        Sanctuary in its attic to all Supernatural's. The magic that
+        Sanctuary in its attic to all Supernaturals. The magic that
         protects the Sanctuary prevents people from being directly
         ordered out, auras from being sensed, or sounds like talking or
         footsteps from being heard. The basement offers a full
@@ -53,7 +53,7 @@ without fear of exposure.
         can become part of the pack. Those interested would make
         inquiries at the White Valley Vineyard.
 
-    -  White Valley Medical Center - offers medical to Supernatural's
+    -  White Valley Medical Center - offers medical to Supernaturals
         for any and all ailments and successfully is able to hide and
         offer Sanctuary to all in need within the limitations set by the
         Medical Director.
