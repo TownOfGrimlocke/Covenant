@@ -50,7 +50,7 @@
 
     -  There are always exceptions to rules. Accidental fires, an
         in-depth character who is willing to accept roleplay
-        consequence, a storyline that has led to a certain roleplay
+        consequences, a storyline that has led to a certain roleplay
         plot. If you are uncertain, you're always welcome to reach out.
 
     -  Please note -- juvie is for all minor aged characters. Just

@@ -24,7 +24,7 @@ way outside of hiking would be by horse, dirt bike, or ATV.
 To get to the cemetery would be at least an hour's hike from the dirt
 road, to get to the small house on the hill would take you a couple
 hours to hike from the dirt road, and to access the mountain above the
-cave tunnels would take a minimum of a 4 hour hike from the dirt road.
+cave tunnels would take a minimum of a 4-hour hike from the dirt road.
 Due to the steep paths and exposed roots, horseback or by foot only.
 
 The tunnels would also be a lot deeper than they appear and take a very
