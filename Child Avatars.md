@@ -99,7 +99,7 @@
     case hasn't been closed or you haven't been given your court date --
     please contact management.
 
-- School for juveniles currently incarcerated with in the Juvenile
+- School for juveniles currently incarcerated within the Juvenile
     detention center. The Juvenile would be given the option to attend
     virtually via a laptop that would be restricted and monitored at all
     times. The Juveniles that elect to attend in person would be fitted
