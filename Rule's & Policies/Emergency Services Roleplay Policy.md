@@ -12,12 +12,12 @@ Just because someone is online does not mean they are actively on duty.
 If you want to leave an offline 911 to point towards a crime scene
 marker - you can use the #ic-communications channel in our discord, tag
 as a 911 call. You can emote in the RP Chat that you've called 911,
-spoke to someone, and the relay will handle the rest (in that call,
+spoken to someone, and the relay will handle the rest (in that call,
 please provide all the information for the call, if you're doing it in
 Discord, please tag the Sheriff's).
 
 If you notice there is an active roleplay using utility resources (fire,
-sheriff, medical), message one of the resource role-player's before
+sheriff, medical), message one of the resource role-players before
 starting another roleplay.
 
 All emergency calls and roleplay chatter is in the roleplay group only.

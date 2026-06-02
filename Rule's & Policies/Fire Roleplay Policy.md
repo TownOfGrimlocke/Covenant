@@ -7,7 +7,7 @@ The following rules apply to all fire roleplays
     foam not water. Forest fire would require water.) This is to keep
     the sim lag down.
 
-    -  There can not be more than 1 fire roleplay at a time, any that
+    -  There cannot be more than 1 fire roleplay at a time, any that
     happen after the first roleplay is activated will be voided
     immediately.
 
