@@ -3,7 +3,7 @@ making it unfair to those you are roleplaying with. We do have guides
 for every race to follow upon request but do not push this. This is
 subject to change if we run into issues.
 
-The use of magic huds are not allowed without permission. These tend to
+The use of magic huds is not allowed without permission. These tend to
 drop objects that do not always clean up, create lag, and have the
 chance of affecting people not involved in your roleplays. They can also
 lead to the mistake of you being considered a griefer. You MUST gain
