@@ -11,7 +11,7 @@
 -  We do not allow more than 3 breedable animals per rental. This can
     be adjusted with approval of management.
 
--  You are allowed up to 5 NPC's (i.e. babies, pets) per rental. If you
+-  You are allowed up to 5 NPCs (i.e. babies, pets) per rental. If you
     notice sounds are carrying off of your parcel -- please immediately
     notify management to get this corrected.
 
