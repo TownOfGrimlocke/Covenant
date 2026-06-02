@@ -10,8 +10,8 @@
     etc. You can use certain words like A\*\* or F\*\*k for emotionally
     charged scenes but ask that it's not repetitive. Sometimes certain
     things slip out, but please monitor yourself. You can easily emote
-    > */me shouted F**K three times after stubbing my little toe on the
-    coffee table.*
+    *"/me shouted F\*\*K three times after stubbing my little toe on the
+    coffee table."*
 
 3.  No bullying
 
