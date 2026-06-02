@@ -1,6 +1,8 @@
-The community owner and management of Grimlocke reserve the right to
-change the bylaws of the community. Notice will be given of any
-amendments.
+---
+title: "Amendments"
+mode: "default"
+---
 
-Management also reserves the right to approve or disallow permissions as
-needed for the overall health of the community.
+The community owner and management of Grimlocke reserve the right to change the bylaws of the community. Notice will be given of any amendments.
+
+Management also reserves the right to approve or disallow permissions as needed for the overall health of the community.
