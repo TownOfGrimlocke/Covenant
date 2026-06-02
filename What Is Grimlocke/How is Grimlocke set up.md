@@ -18,7 +18,7 @@ White Valley National Forest extends from and around Sunrise Heights
 past Juniper Woods. The town of Grimlocke is nestled between the
 Crescent Moon Bay and the National Forest.
 
-Treat the forest as many miles deep and not easily traversed. Best
+Treat the forest as many, many miles deep and not easily traversed. Best
 way outside of hiking would be by horse, dirt bike, or ATV.
 
 To get to the cemetery would be at least an hour's hike from the dirt
@@ -28,8 +28,8 @@ cave tunnels would take a minimum of a 4 hour hike from the dirt road.
 Due to the steep paths and exposed roots, horseback or by foot only.
 
 The tunnels would also be a lot deeper than they appear and take a very
-long time to navigate without Supernatural guidance. There would be many
-tunnels both closed off and caved in - think of how normal mines
+long time to navigate without Supernatural guidance. There would be many,
+many tunnels both closed off and caved in - think of how normal mines
 are when they are closed off to the public. The tunnels are by foot
 only. The use of cellular devices would not be possible. Short wave
 radios would work until the person went deeper into the mines.
