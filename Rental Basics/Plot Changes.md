@@ -5,7 +5,7 @@
         the aesthetics of the region.
 
     -  The Renter will be required to pay a min of 3 weeks on their
-        rental or have 5 + weeks' time remaining on the rental.
+        rental or have 5+ weeks' time remaining on the rental.
 
     -  Usage of your own provided house must be approved by management.
 
