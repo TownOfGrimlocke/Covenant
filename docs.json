@@ -12,39 +12,42 @@
       {
         "group": "What Is Grimlocke?",
         "pages": [
+          "Examples",
+          "Glossary",
           "What Is Grimlocke/About Grimlocke",
+          "What Is Grimlocke/Businesses not related to Roleplay",
           "What Is Grimlocke/How is Grimlocke set up",
-          "What Is Grimlocke/Businesses not related to roleplay",
-          "What Is Grimlocke/Supernatural Roleplaying"
+          "What Is Grimlocke/Supernatural Roleplaying",
+          "Welcome"
         ]
       },
       {
         "group": "Rules & Policies",
         "pages": [
-          "Rule's & Policies/General Rules",
-          "Rule's & Policies/Criminal Roleplay",
-          "Rule's & Policies/Voiding Roleplay Policy",
-          "Rule's & Policies/Mimic Roleplay Policy",
-          "Rule's & Policies/Emergency Services Roleplay Policy",
-          "Rule's & Policies/Fire Roleplay Policy",
-          "Rule's & Policies/Clothing and Attachment",
-          "Rule's & Policies/Areas and Events Marked SPN",
           "Rule's & Policies/18+ Events",
-          "Rule's & Policies/Roleplay Chat",
-          "Rule's & Policies/Ghost Emoting",
-          "Rule's & Policies/Vehicles and Driving",
-          "Rule's & Policies/SZYM Paladins",
-          "Rule's & Policies/Scripted Items",
-          "Rule's & Policies/Roleplay Style",
+          "Rule's & Policies/Areas and Events Marked SPN",
+          "Rule's & Policies/Bans",
+          "Rule's & Policies/Clothing and Attachment",
+          "Rule's & Policies/Criminal Roleplay",
           "Rule's & Policies/Dice Rolls",
-          "Rule's & Policies/Bans"
+          "Rule's & Policies/Emergency Services Roleplay",
+          "Rule's & Policies/Fire Roleplay",
+          "Rule's & Policies/General Rules",
+          "Rule's & Policies/Ghost Emoting",
+          "Rule's & Policies/Mimic Roleplay",
+          "Rule's & Policies/Roleplay Chat",
+          "Rule's & Policies/Roleplay Style",
+          "Rule's & Policies/Scripted Items",
+          "Rule's & Policies/SZYM Paladins",
+          "Rule's & Policies/Vehicles and Driving",
+          "Rule's & Policies/Voiding Roleplay"
         ]
       },
       {
         "group": "Supernatural Roleplay",
         "pages": [
-          "Supernatural Roleplay/Supernatural Roleplay",
-          "Supernatural Roleplay/Supernatural Areas"
+          "Supernatural Roleplay/Supernatural Areas",
+          "Supernatural Roleplay/Supernatural Roleplay"
         ]
       },
       {
@@ -54,17 +57,24 @@
         ]
       },
       {
+        "group": "Juvenile Detention Center",
+        "pages" : [
+          "Juvenile-Detention-Center"
+        ]
+
+      },
+      {
         "group": "Rental Basics",
         "pages": [
-          "Rental Basics/Rental Basics",
-          "Rental Basics/Plot Changes",
-          "Rental Basics/Landscaping",
-          "Rental Basics/Holidays",
-          "Rental Basics/Prefurnished Rentals",
-          "Rental Basics/Other Rentals",
-          "Rental Basics/Rental Swaps",
           "Rental Basics/Discounts",
-          "Rental Basics/Eviction Information"
+          "Rental Basics/Eviction Information",
+          "Rental Basics/Holidays",
+          "Rental Basics/Landscaping",
+          "Rental Basics/Other Rentals",
+          "Rental Basics/Plot Changes",
+          "Rental Basics/Prefurnished Rentals",
+          "Rental Basics/Rental Basics",
+          "Rental Basics/Rental Swaps"
         ]
       },
       {
