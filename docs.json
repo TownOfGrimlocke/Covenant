@@ -10,95 +10,85 @@
   "navigation": {
     "groups": [
       {
-        "group": "What Is Grimlocke?",
+        "group": "2026 Covenant ",
         "pages": [
+          "Welcome",
           "Examples",
           "Glossary",
-          "What Is Grimlocke/About Grimlocke",
-          "What Is Grimlocke/Businesses not related to Roleplay",
-          "What Is Grimlocke/How is Grimlocke set up",
-          "What Is Grimlocke/Supernatural Roleplaying",
-          "Welcome"
-        ]
-      },
-      {
-        "group": "Rules & Policies",
-        "pages": [
-          "Rule's & Policies/18+ Events",
-          "Rule's & Policies/Areas and Events Marked SPN",
-          "Rule's & Policies/Bans",
-          "Rule's & Policies/Clothing and Attachment",
-          "Rule's & Policies/Criminal Roleplay",
-          "Rule's & Policies/Dice Rolls",
-          "Rule's & Policies/Emergency Services Roleplay",
-          "Rule's & Policies/Fire Roleplay",
-          "Rule's & Policies/General Rules",
-          "Rule's & Policies/Ghost Emoting",
-          "Rule's & Policies/Mimic Roleplay",
-          "Rule's & Policies/Roleplay Chat",
-          "Rule's & Policies/Roleplay Style",
-          "Rule's & Policies/Scripted Items",
-          "Rule's & Policies/SZYM Paladins",
-          "Rule's & Policies/Vehicles and Driving",
-          "Rule's & Policies/Voiding Roleplay"
-        ]
-      },
-      {
-        "group": "Supernatural Roleplay",
-        "pages": [
-          "Supernatural Roleplay/Supernatural Areas",
-          "Supernatural Roleplay/Supernatural Roleplay"
-        ]
-      },
-      {
-        "group": "Child Avatars",
-        "pages": [
-          "Child Avatars"
-        ]
-      },
-      {
-        "group": "Juvenile Detention Center",
-        "pages" : [
-          "Juvenile-Detention-Center"
-        ]
-
-      },
-      {
-        "group": "Rental Basics",
-        "pages": [
-          "Rental Basics/Discounts",
-          "Rental Basics/Eviction Information",
-          "Rental Basics/Holidays",
-          "Rental Basics/Landscaping",
-          "Rental Basics/Other Rentals",
-          "Rental Basics/Plot Changes",
-          "Rental Basics/Prefurnished Rentals",
-          "Rental Basics/Rental Basics",
-          "Rental Basics/Rental Swaps"
-        ]
-      },
-      {
-        "group": "Things To Note",
-        "pages": [
-          "Things To Note/Building Information"
-        ]
-      },
-      {
-        "group": "Privacy Expectation",
-        "pages": [
-          "Privacy-Expectation"
-        ]
-      },
-      {
-        "group": "Property of Grimlocke",
-        "pages": [
-          "Property of Grimlocke"
-        ]
-      },
-      {
-        "group": "Amendments",
-        "pages": [
-          "Amendments"
+          {
+            "group": "What Is Grimlocke",
+            "expanded": false,
+            "icon": "book",
+            "pages": [
+              "What Is Grimlocke/About Grimlocke",
+              "What Is Grimlocke/Businesses not related to roleplay",
+              "What Is Grimlocke/How is Grimlocke set up",
+              "What Is Grimlocke/Supernatural Roleplaying"
+            ]
+          },
+          {
+            "group": "Rules & Policies",
+            "expanded": false,
+            "icon": "scale-balanced",
+            "pages": [
+              "Rule's & Policies/General Rules",
+              "Rule's & Policies/18+ Events",
+              "Rule's & Policies/Areas and Events Marked SPN",
+              "Rule's & Policies/Bans",
+              "Rule's & Policies/Clothing and Attachment",
+              "Rule's & Policies/Criminal Roleplay",
+              "Rule's & Policies/Dice Rolls",
+              "Rule's & Policies/Emergency Services Roleplay",
+              "Rule's & Policies/Fire Roleplay",
+              "Rule's & Policies/Ghost Emoting",
+              "Rule's & Policies/Mimic Roleplay",
+              "Rule's & Policies/Roleplay Chat",
+              "Rule's & Policies/Roleplay Style",
+              "Rule's & Policies/Scripted Items",
+              "Rule's & Policies/SZYM Paladins",
+              "Rule's & Policies/Vehicles and Driving",
+              "Rule's & Policies/Voiding Roleplay"
+            ]
+          },
+          {
+            "group": "Supernatural Roleplay",
+            "expanded": false,
+            "icon": "moon",
+            "pages": [
+              "Supernatural Roleplay/Supernatural Areas",
+              "Supernatural Roleplay/Supernatural Roleplay"
+            ]
+          },
+          {
+            "group": "Rental Basics",
+            "expanded": false,
+            "icon": "house",
+            "pages": [
+              "Rental Basics/Rental Basics",
+              "Rental Basics/Discounts",
+              "Rental Basics/Eviction Information",
+              "Rental Basics/Holidays",
+              "Rental Basics/Landscaping",
+              "Rental Basics/Other Rentals",
+              "Rental Basics/Plot Changes",
+              "Rental Basics/Prefurnished Rentals",
+              "Rental Basics/Rental Swaps"
+            ]
+          },
+          {
+            "group": "Special Topics",
+            "expanded": false,
+            "icon": "bookmark",
+            "pages": [
+              "Child Avatars",
+              "Juvenile-Detention-Center",
+              "Privacy-Expectation",
+              "Property of Grimlocke",
+              "Amendments",
+              "Building-Information",
+              "Things To Note/Building Information"
+            ]
+          }
         ]
       }
     ]
