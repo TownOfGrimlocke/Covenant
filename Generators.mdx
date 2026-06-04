@@ -1,0 +1,173 @@
+---
+title: "Generators"
+---
+
+export const ChanceGenerator = () => {
+  const chanceRef = React.useRef(null);
+  const [generated, setGenerated] = React.useState(null);
+  const [generatedAt, setGeneratedAt] = React.useState("");
+  const [loadError, setLoadError] = React.useState("");
+
+  const rollDice = (chance, count, sides, modifier = 0) => {
+    const rolls = Array.from({ length: count }, () => chance.integer({ min: 1, max: sides }));
+    const total = rolls.reduce((sum, value) => sum + value, 0) + modifier;
+    return { rolls, total, modifier };
+  };
+
+  const formatTime = () => {
+    return new Date().toLocaleString();
+  };
+
+  const generateIdentity = (chance) => {
+    return {
+      name: chance.name(),
+      dateOfBirth: chance.birthday({ string: true, american: false }),
+      placeOfBirth: chance.city()
+    };
+  };
+
+  const generateAll = (chance) => {
+    const identity = generateIdentity(chance);
+    setGenerated({
+      ...identity,
+      roll1d20: rollDice(chance, 1, 20),
+      roll2d6: rollDice(chance, 2, 6),
+      roll1d100: rollDice(chance, 1, 100),
+      roll3d6plus2: rollDice(chance, 3, 6, 2)
+    });
+    setGeneratedAt(formatTime());
+  };
+
+  const rerollAll = () => {
+    if (!chanceRef.current) {
+      return;
+    }
+
+    generateAll(chanceRef.current);
+  };
+
+  const rerollName = () => {
+    if (!chanceRef.current || !generated) {
+      return;
+    }
+
+    const identity = generateIdentity(chanceRef.current);
+    setGenerated((prev) => ({ ...prev, ...identity }));
+    setGeneratedAt(formatTime());
+  };
+
+  const rerollDice = (key, count, sides, modifier = 0) => {
+    if (!chanceRef.current || !generated) {
+      return;
+    }
+
+    setGenerated((prev) => ({
+      ...prev,
+      [key]: rollDice(chanceRef.current, count, sides, modifier)
+    }));
+    setGeneratedAt(formatTime());
+  };
+
+  React.useEffect(() => {
+    setLoadError("");
+
+    if (window.Chance) {
+      chanceRef.current = new window.Chance();
+      generateAll(chanceRef.current);
+      return;
+    }
+
+    const scriptId = "chance-cdn-script";
+    let script = document.getElementById(scriptId);
+
+    if (!script) {
+      script = document.createElement("script");
+      script.id = scriptId;
+      script.src = "https://cdnjs.cloudflare.com/ajax/libs/chance/1.1.11/chance.min.js";
+      script.async = true;
+      document.body.appendChild(script);
+    }
+
+    script.onload = () => {
+      if (window.Chance) {
+        chanceRef.current = new window.Chance();
+        generateAll(chanceRef.current);
+      } else {
+        setLoadError("Chance loaded, but was not available in the page context.");
+      }
+    };
+    script.onerror = () => {
+      setLoadError("Failed to load Chance from CDN. Check network access and try again.");
+    };
+
+    return () => {
+      script.onload = null;
+      script.onerror = null;
+    };
+  }, []);
+
+  if (loadError) {
+    return <Callout type="warning">{loadError}</Callout>;
+  }
+
+  if (!generated) {
+    return <p>Generating...</p>;
+  }
+
+  const renderRoll = (label, data) => {
+    const modText = data.modifier === 0 ? "" : data.modifier > 0 ? ` + ${data.modifier}` : ` - ${Math.abs(data.modifier)}`;
+    return (
+      <>
+        <p>Formula: {label}</p>
+        <p>Rolls: [{data.rolls.join(", ")}] {modText}</p>
+        <p>Total: {data.total}</p>
+      </>
+    );
+  };
+
+  return (
+    <>
+      <Callout type="info">
+        Values are generated client-side using Chance.js from a CDN.
+      </Callout>
+      <Callout type="note">
+        Last updated: {generatedAt}
+      </Callout>
+
+      <button onClick={rerollAll} style={{ marginBottom: "1rem" }}>
+        Reroll All
+      </button>
+
+      <CardGroup cols={2}>
+        <Card title="Random Name">
+          <p>Name: {generated.name}</p>
+          <p>Date of Birth: {generated.dateOfBirth}</p>
+          <p>Place of Birth: {generated.placeOfBirth}</p>
+          <button onClick={rerollName}>Reroll Name</button>
+        </Card>
+
+        <Card icon="Dice" title="1d20">
+          {renderRoll("1d20", generated.roll1d20)}
+          <button onClick={() => rerollDice("roll1d20", 1, 20)}>Reroll 1d20</button>
+        </Card>
+
+        <Card title="2d6">
+          {renderRoll("2d6", generated.roll2d6)}
+          <button onClick={() => rerollDice("roll2d6", 2, 6)}>Reroll 2d6</button>
+        </Card>
+
+        <Card title="1d100">
+          {renderRoll("1d100", generated.roll1d100)}
+          <button onClick={() => rerollDice("roll1d100", 1, 100)}>Reroll 1d100</button>
+        </Card>
+
+        <Card title="3d6+2">
+          {renderRoll("3d6+2", generated.roll3d6plus2)}
+          <button onClick={() => rerollDice("roll3d6plus2", 3, 6, 2)}>Reroll 3d6+2</button>
+        </Card>
+      </CardGroup>
+    </>
+  );
+};
+
+<ChanceGenerator />
