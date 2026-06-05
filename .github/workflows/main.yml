@@ -2,7 +2,7 @@ name: Auto-Fix Typos and Open PR
 on:
   push:
     branches:
-      - 'develop'
+      - 'Develop'
 
 jobs:
   fix-and-pr:
