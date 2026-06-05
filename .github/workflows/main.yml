@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - 'Develop' # Triggers when you push to Develop
+  pull_request:
+    branches:
+      - 'Develop'
 
 jobs:
   fix-and-pr:
@@ -18,6 +21,7 @@ jobs:
         uses: errata-ai/vale-action@v2
         with:
           files: '.' # Checks all md and mdx files in the repo
+          reporter: ${{ github.event_name == 'pull_request' && 'github-pr-annotations' || 'github-check' }}
         env:
           # Authorizes the action to post results back to GitHub
           GITHUB_TOKEN: ${{ secrets.AUTO_PR_TOKEN }}
