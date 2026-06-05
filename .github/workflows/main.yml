@@ -2,26 +2,21 @@ name: Auto-Fix Prose and Open PR
 on:
   push:
     branches:
-      - 'Develop' # Triggers when you push to Develop
-  pull_request:
-    branches:
-      - 'Develop'
+      - 'develop' # Triggers when you push to develop
 
 jobs:
-  fix-and-pr:
-    # Safety check: ensures the action only runs if a human pushed the code
-    if: github.actor != 'github-actions[bot]'
+  vale:
+    name: runner / vale
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
+      - name: Checkout
         uses: actions/checkout@v4
 
-      # Runs Vale against your project using your .vale.ini rules
-      - name: Run Vale Prose Linter
+      - name: Vale Linter
         uses: errata-ai/vale-action@v2
         with:
-          files: '.' # Checks all md and mdx files in the repo
-          reporter: ${{ github.event_name == 'pull_request' && 'github-pr-annotations' || 'github-check' }}
+          # github-check works on BOTH commits and PRs.
+          # It adds annotations directly to the GitHub files view.
+          reporter: github-check
         env:
-          # Authorizes the action to post results back to GitHub
-          GITHUB_TOKEN: ${{ secrets.AUTO_PR_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
