@@ -2,7 +2,7 @@ name: Auto-Fix Prose and Open PR
 on:
   push:
     branches:
-      - 'develop' # Triggers when you push to develop
+      - 'Develop' # Triggers when you push to Develop
 
 jobs:
   fix-and-pr:
