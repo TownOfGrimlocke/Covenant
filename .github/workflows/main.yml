@@ -1,4 +1,4 @@
-name: Auto-Fix Prose and Open PR
+name: Auto-Fix Typos and Open PR
 on:
   push:
     branches:
