@@ -1,5 +1,8 @@
 Examples.mdx
 .vscode
 TODO
-.vale/
 .vale.ini
+.vale/styles/Google/*
+node_modules
+package.json
+package-lock.json
