@@ -1,19 +1,23 @@
-name: Auto-Fix Typos and Open PR
+name: Auto-Fix Prose and Open PR
 on:
   push:
     branches:
-      - 'Develop'
+      - 'develop' # Triggers when you push to develop
 
 jobs:
   fix-and-pr:
-    # Crucial safety check: Ensures the action ONLY runs if the push came from a real person,
-    # and completely skips running if a GitHub Bot or Action caused the push event.
+    # Safety check: ensures the action only runs if a human pushed the code
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
+
+      # Runs Vale against your project using your .vale.ini rules
+      - name: Run Vale Prose Linter
+        uses: errata-ai/vale-action@v2
         with:
+<<<<<<< HEAD
           ref: Develop
 
       # Rest of the steps remain exactly the same...
@@ -47,3 +51,9 @@ jobs:
           base: Develop  
           branch: spelling-${{ steps.vars.outputs.sha_short }}
           delete-branch: true 
+=======
+          files: '.' # Checks all md and mdx files in the repo
+        env:
+          # Authorizes the action to post results back to GitHub
+          GITHUB_TOKEN: ${{ secrets.AUTO_PR_TOKEN }}
+>>>>>>> e0b8d04 (Rename workflow to "Auto-Fix Prose and Open PR" and update branch references to 'develop')
