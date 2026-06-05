@@ -14,7 +14,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
         with:
-          ref: developer
+          ref: Develop
 
       # Rest of the steps remain exactly the same...
       - name: Set up Python
@@ -38,12 +38,12 @@ jobs:
           commit-message: "docs: automatic spelling corrections for commit ${{ steps.vars.outputs.sha_short }}"
           title: "🤖 Automated Spelling Fixes (${{ steps.vars.outputs.sha_short }})"
           body: |
-            This PR contains automatic documentation corrections based on your latest push to `developer`.
+            This PR contains automatic documentation corrections based on your latest push to `Develop`.
             
             ### 📝 Next Steps:
             1. Open this PR on GitHub.
             2. Click the **Copilot Actions ✨** button and select **Summary** to generate your localized change log.
             3. Review the adjustments and click **Merge** to sync the fixes back into your local workflow!
-          base: developer  
+          base: Develop  
           branch: spelling-${{ steps.vars.outputs.sha_short }}
           delete-branch: true 
