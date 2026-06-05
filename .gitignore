@@ -1,7 +1,6 @@
 Examples.mdx
 .vscode
 TODO
-.vale.ini
 .vale/styles/Google/*
 node_modules
 package.json
