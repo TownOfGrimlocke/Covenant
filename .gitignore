@@ -1,0 +1,7 @@
+Examples.mdx
+.vscode
+TODO
+.vale/styles/Google/*
+node_modules
+package.json
+package-lock.json
